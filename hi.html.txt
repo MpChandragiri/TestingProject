@@ -1,0 +1,3 @@
+Java follows Oops concept
+
+polimorphism
