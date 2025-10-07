@@ -6,6 +6,7 @@ public class ghi {
 		
 		int a = 10;
 		int b = 20;
+		int c = 20;
 		
 		System.out.println(a + b);
 	}
